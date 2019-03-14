@@ -1,0 +1,23 @@
+{
+  "name": "docz-example-basic",
+  "version": "0.13.7",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.5",
+    "@emotion/styled": "^10.0.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.9",
+    "babel-plugin-emotion": "^10.0.5",
+    "docz": "^0.13.7",
+    "docz-theme-default": "^0.13.7",
+    "docz-theme-hydrate": "^1.5.1"
+  }
+}
